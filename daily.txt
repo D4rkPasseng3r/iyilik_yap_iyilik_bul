@@ -33,3 +33,8 @@ Sunucuda başıboş bırakılmış bir Docker container'ı fark ettim.
 Eğer container ayrıcalıklı modda çalışıyorsa, host makineye buradan atlayabilirim.
 aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1USkFmTEUzOVpaOCZwcD15Z1VOWW1GamF5QjBieUJpYkdGamF3JTNEJTNE
 - D4rkPasseng3r
+
+8 Nisan 2025
+Bingo! Container inanılmaz kötü yapılandırılmış.
+Mount pointleri kullanarak root yetkileriyle host'a geçiş yapmayı başardım. Artık içerideki kral benim.
+- D4rkPasseng3r
