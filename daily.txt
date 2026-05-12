@@ -67,3 +67,9 @@ Bugün biraz ara verdim.
 Logları manipüle ettim.
 Sisteme yetkisiz erişimimi, sanki sıradan bir yedekleme cron job'ı çalışıyormuş gibi gösterdim.
 Fark etmeleri aylar sürer.
+- D4rkPasseng3r
+
+15 Nisan 2025  
+Sızdırılan verileri kendi lokalimde analiz ederken oldukça ilginç bir proje dosyasına denk geldim.
+Şirketin gizli tuttuğu bir şeyler var, bunu daha sonra detaylı inceleyeceğim.
+- D4rkPasseng3r
