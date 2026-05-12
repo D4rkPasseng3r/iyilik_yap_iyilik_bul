@@ -17,3 +17,8 @@ Her şey tıkır tıkır işliyor, artık aktif tarama aşamasına geçebilirim.
 İçerideki bir sunucuda unutulmuş açık bir port buldum. Eski bir servis çalışıyor.
 Geliştiriciler genelde eski sistemleri yamalamayı unuturlar, exploit araştırmalarına başladım.
 - D4rkPasseng3r
+
+5 Nisan 2025
+Bolca kahve ve uykusuz bir gece... 
+Exploit işe yaradı! Sunucuya ilk shell'imi aldım ama yetkilerim şu an için sadece standart bir kullanıcı seviyesinde.
+- D4rkPasseng3r
