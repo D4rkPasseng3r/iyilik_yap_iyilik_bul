@@ -38,3 +38,8 @@ aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1USkFmTEUzOVpaOCZwcD15Z1VOWW1GamF5QjBi
 Bingo! Container inanılmaz kötü yapılandırılmış.
 Mount pointleri kullanarak root yetkileriyle host'a geçiş yapmayı başardım. Artık içerideki kral benim.
 - D4rkPasseng3r
+
+9 Nisan 2025
+Şirketin asıl veritabanı sunucusunun IP adresini tespit ettim.
+Ancak bulunduğum makine ile veritabanı arasında sıkı bir ağ kısıtlaması var. Direk bağlantı kuramıyorum.
+- D4rkPasseng3r
