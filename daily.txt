@@ -48,3 +48,8 @@ Ancak bulunduğum makine ile veritabanı arasında sıkı bir ağ kısıtlaması
 Trafiği gizlemek ve veritabanına ulaşmak için verileri DNS üzerinden dışarı sızdırmayı planlıyorum.
 Otomasyon için Go ile küçük bir tünelleme scripti yazmaya başladım.
 - D4rkPasseng3r
+
+11 Nisan 2025
+Go ile yazdığım script harika çalışıyor. 
+İlk veri paketlerini DNS sorguları arasına saklayarak dışarı çıkardım, kimsenin ruhu duymadı.
+- D4rkPasseng3r
