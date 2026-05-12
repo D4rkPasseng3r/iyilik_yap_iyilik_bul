@@ -1,0 +1,4 @@
+1 Nisan 2025
+Yeni bir ay, yeni hedefler. Şirket ağına sızmak için ilk adımları attım ve dışarıdan ağ trafiğini pasif olarak dinlemeye başladım. 
+İçeride neler döndüğünü yakında öğreneceğim.
+- D4rkPasseng3r
