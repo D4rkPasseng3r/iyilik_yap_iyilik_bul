@@ -53,3 +53,7 @@ Otomasyon için Go ile küçük bir tünelleme scripti yazmaya başladım.
 Go ile yazdığım script harika çalışıyor. 
 İlk veri paketlerini DNS sorguları arasına saklayarak dışarı çıkardım, kimsenin ruhu duymadı.
 - D4rkPasseng3r
+
+12 Nisan 2025 Veritabanında beklediğimden çok daha büyük bir hazine var.
+Müşteri verileri, AR-GE taslakları, şirket içi yazışmalar... Hepsini yavaş yavaş, parça parça çekiyorum.
+- D4rkPasseng3r
