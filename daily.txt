@@ -27,3 +27,9 @@ Exploit işe yaramadı... Olsun denemeye devam!
 Yetki yükseltme  denemelerim bugün başarısız oldu. 
 Kernel sürümü yakın zamanda yamalanmış, sisteme root olmak için başka bir yol bulmam lazım.
 - D4rkPasseng3r
+
+7 Nisan 2025
+Sunucuda başıboş bırakılmış bir Docker container'ı fark ettim.
+Eğer container ayrıcalıklı modda çalışıyorsa, host makineye buradan atlayabilirim.
+aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1USkFmTEUzOVpaOCZwcD15Z1VOWW1GamF5QjBieUJpYkdGamF3JTNEJTNE
+- D4rkPasseng3r
