@@ -20,5 +20,5 @@ Geliştiriciler genelde eski sistemleri yamalamayı unuturlar, exploit araştır
 
 5 Nisan 2025
 Bolca kahve ve uykusuz bir gece... 
-Exploit işe yaradı! Sunucuya ilk shell'imi aldım ama yetkilerim şu an için sadece standart bir kullanıcı seviyesinde.
+Exploit işe yaramadı... Olsun denemeye devam!
 - D4rkPasseng3r
