@@ -104,3 +104,8 @@ Lanet olsun, bir şeyleri eksik yaptığımı fark ettim.
 Çaldığım şirket içi yazışmaları incelerken, şirkette bir veri sızıntısı olduğuna dair şüphelerin başladığını gördüm.
 Zaman daralıyor, izleri tamamen yok etmeliyim.
 - D4rkPasseng3r
+
+22 Nisan 2025
+CTI ekibinin bulamaması için en kritik veriyi ve asıl kanıtı buraya, bu commitlerin arasına saklıyorum.
+Bakalım o kadar zekiler mi?
+- D4rkPasseng3r
