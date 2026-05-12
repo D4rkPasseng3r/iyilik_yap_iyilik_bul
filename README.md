@@ -56,3 +56,5 @@ oluşturmak amacıyla tutulmaktadır.
 
 Bazı insanlar geçmişini saklamaya çalışır.
 Bazılarıysa onunla yüzleşir.
+
+- D4rkPasseng3r
