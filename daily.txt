@@ -118,3 +118,8 @@ Siber dünyada biraz gövde gösterisi yapmayı seviyorum.
 24 Nisan 2025
 Şirketin güvenlik araştırmacılarıyla anlaştığını ve pcap dosyaları üzerinden ağdaki şüpheli trafiği analiz etmeye başladıklarını duydum.
 - D4rkPasseng3r
+
+25 Nisan 2025
+Olası tüm bağlantılarımı kopardım.
+Sunucudaki son kalıntılarımı da bir bash scripti ile sonsuzluğa yolladım. Artık tamamen hayaletim.
+- D4rkPasseng3r
