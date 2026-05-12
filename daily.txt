@@ -94,3 +94,8 @@ Nefesimi tuttum bekliyorum, bağlantının kopmaması lazım.
 Transfer tamamlandı! Artık izlerimi tamamen silip bu ağdan kalıcı olarak çıkma vakti geldi.
 Arkamda hiçbir dijital ayak izi bırakmayacağım.
 - D4rkPasseng3r
+
+20 Nisan 2025
+Lanet olsun, bir şeyleri eksik yaptığımı fark ettim.
+İçeride bıraktığım bir backdoor'u silmeyi unutmuşum. Geri dönmek intihar olur.
+- D4rkPasseng3r
