@@ -2,3 +2,8 @@
 Yeni bir ay, yeni hedefler. Şirket ağına sızmak için ilk adımları attım ve dışarıdan ağ trafiğini pasif olarak dinlemeye başladım. 
 İçeride neler döndüğünü yakında öğreneceğim.
 - D4rkPasseng3r
+
+2 Nisan 2025
+Güvenlik duvarı beklediğimden daha katı yapılandırılmış. 
+Nmap taramaları çok yavaş ilerliyor, dikkat çekmemek ve IDS'i tetiklememek için paket aralıklarını oldukça uzattım.
+- D4rkPasseng3r
