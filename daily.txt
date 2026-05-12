@@ -22,3 +22,8 @@ Geliştiriciler genelde eski sistemleri yamalamayı unuturlar, exploit araştır
 Bolca kahve ve uykusuz bir gece... 
 Exploit işe yaramadı... Olsun denemeye devam!
 - D4rkPasseng3r
+
+6 Nisan 2025
+Yetki yükseltme  denemelerim bugün başarısız oldu. 
+Kernel sürümü yakın zamanda yamalanmış, sisteme root olmak için başka bir yol bulmam lazım.
+- D4rkPasseng3r
