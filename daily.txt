@@ -43,3 +43,8 @@ Mount pointleri kullanarak root yetkileriyle host'a geçiş yapmayı başardım.
 Şirketin asıl veritabanı sunucusunun IP adresini tespit ettim.
 Ancak bulunduğum makine ile veritabanı arasında sıkı bir ağ kısıtlaması var. Direk bağlantı kuramıyorum.
 - D4rkPasseng3r
+
+10 Nisan 2025
+Trafiği gizlemek ve veritabanına ulaşmak için verileri DNS üzerinden dışarı sızdırmayı planlıyorum.
+Otomasyon için Go ile küçük bir tünelleme scripti yazmaya başladım.
+- D4rkPasseng3r
