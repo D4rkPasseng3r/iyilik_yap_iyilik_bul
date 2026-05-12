@@ -57,3 +57,8 @@ Go ile yazdığım script harika çalışıyor.
 12 Nisan 2025 Veritabanında beklediğimden çok daha büyük bir hazine var.
 Müşteri verileri, AR-GE taslakları, şirket içi yazışmalar... Hepsini yavaş yavaş, parça parça çekiyorum.
 - D4rkPasseng3r
+
+13 Nisan 2025
+Bugün biraz ara verdim. 
+Şirketin CTI ekibi bir şeylerden şüphelenirse diye logları temizlemem ve izlerimi silikleştimem gerekiyor.
+- D4rkPasseng3r
