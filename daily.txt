@@ -62,3 +62,8 @@ Müşteri verileri, AR-GE taslakları, şirket içi yazışmalar... Hepsini yava
 Bugün biraz ara verdim. 
 Şirketin CTI ekibi bir şeylerden şüphelenirse diye logları temizlemem ve izlerimi silikleştimem gerekiyor.
 - D4rkPasseng3r
+
+14 Nisan 2025
+Logları manipüle ettim.
+Sisteme yetkisiz erişimimi, sanki sıradan bir yedekleme cron job'ı çalışıyormuş gibi gösterdim.
+Fark etmeleri aylar sürer.
