@@ -7,3 +7,8 @@ Yeni bir ay, yeni hedefler. Şirket ağına sızmak için ilk adımları attım 
 Güvenlik duvarı beklediğimden daha katı yapılandırılmış. 
 Nmap taramaları çok yavaş ilerliyor, dikkat çekmemek ve IDS'i tetiklememek için paket aralıklarını oldukça uzattım.
 - D4rkPasseng3r
+
+3 Nisan 2025
+Bugün Fedora KDE ortamımı operasyon için tam olarak hazırladım. Özel araçlarımı derledim ve proxy zincirimi kurdum.
+Her şey tıkır tıkır işliyor, artık aktif tarama aşamasına geçebilirim.
+- D4rkPasseng3r
